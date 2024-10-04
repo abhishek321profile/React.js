@@ -54,3 +54,14 @@ function App() {
 }
 
 export default App
+
+
+
+//+++++++ Intresting Interview Question +++++++
+
+// const addValue = () => {
+//   setCounter(prevCounter => prevCounter + 1)
+//   setCounter(prevCounter => prevCounter + 1)
+//   setCounter(prevCounter => prevCounter + 1)
+//   setCounter(prevCounter => prevCounter + 1)
+// }
